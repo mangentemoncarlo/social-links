@@ -38,7 +38,7 @@ p {
 }
 
 .card {
-    max-width: 17rem;
+    max-width: 18.75rem;
     border-radius: 1rem;
     background-color: var(--grey-800);
     padding: 1.5rem;
