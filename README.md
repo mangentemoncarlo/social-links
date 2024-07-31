@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/mangentemoncarlo/social-links)
-- Live Site URL: [Vercel](https://social-links-profile-nu-seven.vercel.app/)
+- Live Site URL: [Vercel](https://social-links-card-two.vercel.app/)
 
 ## My process
 
